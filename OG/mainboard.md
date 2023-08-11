@@ -19,3 +19,15 @@
 - AXM4430ET8E043
 - 9768ETG039 -> speaker amp
 - MX25L51245GHI -> 512 Mb SPI flash
+
+## PCB Picture
+
+![alt text](pictures/20230806_150827.jpg)
+![alt text](pictures/20230806_150853.jpg)
+![alt text](pictures/20230806_153234.jpg)
+![alt text](pictures/20230806_153248.jpg)
+![alt text](pictures/20230806_153304.jpg)
+![alt text](pictures/20230811_041721.jpg)
+![alt text](pictures/20230811_045037.jpg)
+![alt text](pictures/20230811_045409.jpg)
+![alt text](pictures/20230811_045414.jpg)
