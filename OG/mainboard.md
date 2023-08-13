@@ -8,7 +8,7 @@
 - R31CU
 - STM32F413VGT (debug interface near IC)
 - WE 102-ASLI-H41 (Big capacitor)
-- TMS320F28054
+- TMS320F28054 (footprint for JTAG on the other side of the board)
 - XNST IL VO
 - DRV8301 -> Three phase gate driver / [lib for simplefoc](https://community.simplefoc.com/t/drv8301-board-support/389)
 - A8040L4703G
