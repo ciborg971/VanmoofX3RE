@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "WS2812-2020")(type "KiCad")(uri "${KIPRJMOD}/lib/WS2812-2020/WS2812-2020.kicad_sym")(options "")(descr ""))
+)
