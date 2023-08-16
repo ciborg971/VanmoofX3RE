@@ -60,6 +60,26 @@ Top pcb have conformal coating :/
 
 - STM32C072C (swd interface on pcb bottom)
 - Battery cell NR18650MJ1 A062C032N1 (cant fully read it without desoldering battery cell)
+- Li-Ion battery Management LSI ML5236 (communicate via SPI)
+
+Data connector pinout :
+- KEY_IN
+- RX
+- TX
+- GND
+- DET
+- FAULT
+- TEST
+
+Signal near STM32C072 :
+- VCC
+- DIO
+- CLK
+- RST
+- GND
+
+
+Also 2 PTC (temperature probe)
 
 (It's a pain to read chips name with the coating ...)
 ## PCB Picture
@@ -68,6 +88,17 @@ Top pcb have conformal coating :/
 ![alt text](pictures/20230814_170625.jpg)
 ![alt text](pictures/20230814_170852.jpg)
 ![alt text](pictures/20230814_170856.jpg)
+
+![alt text](pictures/20230816_122922.jpg)
+![alt text](pictures/20230816_122941.jpg)
+![alt text](pictures/20230816_122958.jpg)
+![alt text](pictures/20230816_123023.jpg)
+![alt text](pictures/20230816_123145.jpg)
+![alt text](pictures/20230816_123149.jpg)
+![alt text](pictures/20230816_123203.jpg)
+![alt text](pictures/20230816_123522.jpg)
+![alt text](pictures/20230816_123605.jpg)
+![alt text](pictures/20230816_123755.jpg)
 
 ## Notes
 
